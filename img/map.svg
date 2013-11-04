@@ -313,7 +313,7 @@
 		<text transform="matrix(1 0 0 1 675.709 356.25)" fill="#FFFFFF" font-family="'HelveticaNeue-CondensedBold'" font-size="13">22</text>
 	</g>
 </g>
-<g id="Place_Victory_Road">
+<g id="Place_Victory_Road_(Kalos)">
 	<g>
 		<g>
 			
@@ -398,7 +398,7 @@
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="514.75" cy="245.75" r="32.5"/>
 	<text transform="matrix(1 0 0 1 552.5 257.2319)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Lumiose</tspan><tspan x="0" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">City</tspan></text>
 </g>
-<g id="Place_Pokemon_League">
+<g id="Place_Pokémon_League_(Kalos)">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="734.75" cy="286.75" r="15.75"/>
 	<text transform="matrix(1 0 0 1 756.7124 285.25)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Pokemon</tspan><tspan x="0" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">League</tspan></text>
 </g>
@@ -444,7 +444,7 @@
 		<text transform="matrix(1 0 0 1 486.4346 29)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Pokeball Factory</text>
 	</g>
 </g>
-<g id="Place_Sea_Spirit_x27_s_Den">
+<g id="Place_Sea_Spirit%27s_Den">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="250.75" cy="118.75" r="10"/>
 	<g opacity="0.5">
 		<text transform="matrix(1 0 0 1 265.667 119)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Sea Spirit&apos;s Den</text>
