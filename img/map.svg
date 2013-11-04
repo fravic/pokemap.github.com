@@ -482,7 +482,7 @@
 </g>
 <g id="Town_Couriway">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="930.75" cy="299.75" r="15.75"/>
-	<text transform="matrix(1 0 0 1 861.5503 295.5)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Couriway</tspan><tspan x="26.025" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">City</tspan></text>
+	<text transform="matrix(1 0 0 1 861.5503 295.5)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Couriway</tspan><tspan x="17.614" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Town</tspan></text>
 </g>
 <g id="City_Laverre">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="515.75" cy="72.75" r="15.75"/>
@@ -490,6 +490,6 @@
 </g>
 <g id="Town_Dendemille">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="684.75" cy="196.75" r="15.75"/>
-	<text transform="matrix(1 0 0 1 649.0459 227.5)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Dendemille City</text>
+	<text transform="matrix(1 0 0 1 649.0459 227.5)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Dendemille Town</text>
 </g>
 </svg>
