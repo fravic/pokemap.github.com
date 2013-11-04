@@ -214,7 +214,7 @@
     App.prototype.resizeMap = function() {
       var RATIO, w;
 
-      RATIO = 605 / 1000;
+      RATIO = 625 / 1000;
       w = Math.max($("BODY").width(), 1000);
       $("#map").width(w);
       return $("#map").height(w * RATIO);

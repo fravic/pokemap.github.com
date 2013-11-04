@@ -16,7 +16,9 @@ BODY {
 #title {
   position: relative;
   top: -58px;
-  padding: 8px;
+  left: 8px;
+  height: 0;
+  float: left;
 
   opacity: .5;
   color: #444;
