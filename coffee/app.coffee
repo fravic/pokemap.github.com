@@ -87,5 +87,14 @@ class App
         else if @isPlace(g.node.id)
           new Place(g)
 
+    @resizeMap()
+    $(window).on "resize", @resizeMap
+
+  resizeMap: =>
+    RATIO = 605/1000
+    w = Math.max $("BODY").width(), 1000
+    $("#map").width(w)
+    $("#map").height(w * RATIO)
+
 app = new App()
 $ app.render

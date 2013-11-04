@@ -43,8 +43,6 @@ BODY {
 
 #map {
   width: 100%;
-  top: 0;
-  left: 0;
   min-width: 900px; }
 
 #title {

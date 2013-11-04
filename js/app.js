@@ -178,6 +178,7 @@
 
   App = (function() {
     function App() {
+      this.resizeMap = __bind(this.resizeMap, this);
       this.render = __bind(this.render, this);
       this.isPlace = __bind(this.isPlace, this);
       this.isRoute = __bind(this.isRoute, this);
@@ -196,7 +197,7 @@
 
       mixpanel.track("view");
       this.snap = Snap("#map");
-      return Snap.load("img/map.svg", function(f) {
+      Snap.load("img/map.svg", function(f) {
         var g, groups, _i, _len, _results;
 
         groups = f.selectAll("g");
@@ -214,6 +215,17 @@
         }
         return _results;
       });
+      this.resizeMap();
+      return $(window).on("resize", this.resizeMap);
+    };
+
+    App.prototype.resizeMap = function() {
+      var RATIO, w;
+
+      RATIO = 605 / 1000;
+      w = Math.max($("BODY").width(), 1000);
+      $("#map").width(w);
+      return $("#map").height(w * RATIO);
     };
 
     return App;
