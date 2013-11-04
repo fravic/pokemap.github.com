@@ -5,6 +5,7 @@ BODY {
   height: 100%;
 
   background-color: #a1caea;
+  font-family: Helvetica Nueue, Helvetica, sans-serif;
 }
 
 #map {
@@ -14,4 +15,27 @@ BODY {
   top: 0;
   left: 0;
   min-width: 900px;
+}
+
+#title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 8px;
+
+  opacity: .5;
+  color: #444;
+
+  H1 {
+    margin-bottom: 10px;
+
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .footer {
+    width: 150px;
+
+    font-size: 9px;
+  }
 }

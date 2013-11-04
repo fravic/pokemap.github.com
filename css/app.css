@@ -38,7 +38,8 @@ table {
 BODY {
   width: 100%;
   height: 100%;
-  background-color: #a1caea; }
+  background-color: #a1caea;
+  font-family: Helvetica Nueue, Helvetica, sans-serif; }
 
 #map {
   position: absolute;
@@ -47,3 +48,18 @@ BODY {
   top: 0;
   left: 0;
   min-width: 900px; }
+
+#title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 8px;
+  opacity: .5;
+  color: #444; }
+  #title H1 {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 14px; }
+  #title .footer {
+    width: 150px;
+    font-size: 9px; }
