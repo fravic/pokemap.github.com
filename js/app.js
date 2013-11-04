@@ -137,7 +137,6 @@
     __extends(Route, _super);
 
     function Route() {
-      this.onClick = __bind(this.onClick, this);
       this.onMouseout = __bind(this.onMouseout, this);
       this.onMouseover = __bind(this.onMouseover, this);      _ref1 = Route.__super__.constructor.apply(this, arguments);
       return _ref1;
@@ -163,13 +162,6 @@
       return this.g.select("path").animate({
         fill: "#444444"
       }, 100);
-    };
-
-    Route.prototype.onClick = function() {
-      this.g.select("line").animate({
-        stroke: "#ff00ff"
-      }, 100);
-      return Route.__super__.onClick.apply(this, arguments);
     };
 
     return Route;

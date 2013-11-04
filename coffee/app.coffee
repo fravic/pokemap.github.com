@@ -59,10 +59,6 @@ class Route extends Link
     @g.select("line").animate({stroke: "#444444"}, 100)
     @g.select("path").animate({fill: "#444444"}, 100)
 
-  onClick: =>
-    @g.select("line").animate({stroke: "#ff00ff"}, 100)
-    super
-
 class App
   isRoute: (name) =>
     name.indexOf("Route") is 0
