@@ -194,6 +194,7 @@
     App.prototype.render = function() {
       var _this = this;
 
+      mixpanel.track("view");
       this.snap = Snap("#map");
       return Snap.load("img/map.svg", function(f) {
         var g, groups, _i, _len, _results;

@@ -73,6 +73,8 @@ class App
     name.indexOf("Place") is 0
 
   render: =>
+    mixpanel.track "view"
+
     @snap = Snap "#map"
 
     Snap.load "img/map.svg", (f) =>
