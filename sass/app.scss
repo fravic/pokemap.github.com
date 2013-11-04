@@ -9,7 +9,6 @@ BODY {
 }
 
 #map {
-  position: absolute;
   width: 100%;
   top: 0;
   left: 0;
@@ -17,9 +16,8 @@ BODY {
 }
 
 #title {
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  position: relative;
+  top: -58px;
   padding: 8px;
 
   opacity: .5;
