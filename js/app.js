@@ -72,15 +72,61 @@
     };
 
     Place.prototype.onMouseover = function() {
-      return this.g.select("circle").animate({
-        stroke: "#2d9fee"
+      var circle, line, t, _i, _j, _len, _len1, _ref1, _ref2, _results;
+
+      _ref1 = this.g.selectAll("line");
+      for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
+        line = _ref1[_i];
+        line.animate({
+          stroke: "#2d9fee"
+        }, 100);
+      }
+      if (circle = this.g.select("circle")) {
+        circle.animate({
+          stroke: "#2d9fee"
+        }, 100);
+      }
+      this.g.select("text").animate({
+        fill: "#2d9fee"
       }, 100);
+      _ref2 = this.g.selectAll("tspan");
+      _results = [];
+      for (_j = 0, _len1 = _ref2.length; _j < _len1; _j++) {
+        t = _ref2[_j];
+        _results.push(t.animate({
+          fill: "#2d9fee"
+        }, 100));
+      }
+      return _results;
     };
 
     Place.prototype.onMouseout = function() {
-      return this.g.select("circle").animate({
-        stroke: "#444444"
+      var circle, line, t, _i, _j, _len, _len1, _ref1, _ref2, _results;
+
+      _ref1 = this.g.selectAll("line");
+      for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
+        line = _ref1[_i];
+        line.animate({
+          stroke: "#444444"
+        }, 100);
+      }
+      if (circle = this.g.select("circle")) {
+        circle.animate({
+          stroke: "#444444"
+        }, 100);
+      }
+      this.g.select("text").animate({
+        fill: "#444444"
       }, 100);
+      _ref2 = this.g.selectAll("tspan");
+      _results = [];
+      for (_j = 0, _len1 = _ref2.length; _j < _len1; _j++) {
+        t = _ref2[_j];
+        _results.push(t.animate({
+          fill: "#444444"
+        }, 100));
+      }
+      return _results;
     };
 
     return Place;
@@ -102,14 +148,20 @@
     };
 
     Route.prototype.onMouseover = function() {
-      return this.g.select("line").animate({
+      this.g.select("line").animate({
         stroke: "#2d9fee"
+      }, 100);
+      return this.g.select("path").animate({
+        fill: "#2d9fee"
       }, 100);
     };
 
     Route.prototype.onMouseout = function() {
-      return this.g.select("line").animate({
+      this.g.select("line").animate({
         stroke: "#444444"
+      }, 100);
+      return this.g.select("path").animate({
+        fill: "#444444"
       }, 100);
     };
 
@@ -148,11 +200,9 @@
 
         groups = f.selectAll("g");
         _this.snap.append(f);
-        console.log(groups);
         _results = [];
         for (_i = 0, _len = groups.length; _i < _len; _i++) {
           g = groups[_i];
-          console.log(g.node.id);
           if (_this.isRoute(g.node.id)) {
             _results.push(new Route(g));
           } else if (_this.isPlace(g.node.id)) {

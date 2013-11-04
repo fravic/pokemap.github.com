@@ -30,10 +30,22 @@ class Place extends Link
       name.slice("Place_".length)
 
   onMouseover: =>
-    @g.select("circle").animate({stroke: "#2d9fee"}, 100)
+    for line in @g.selectAll("line")
+      line.animate({stroke: "#2d9fee"}, 100)
+    if circle = @g.select("circle")
+      circle.animate({stroke: "#2d9fee"}, 100)
+    @g.select("text").animate({fill: "#2d9fee"}, 100)
+    for t in @g.selectAll("tspan")
+      t.animate({fill: "#2d9fee"}, 100)
 
   onMouseout: =>
-    @g.select("circle").animate({stroke: "#444444"}, 100)
+    for line in @g.selectAll("line")
+      line.animate({stroke: "#444444"}, 100)
+    if circle = @g.select("circle")
+      circle.animate({stroke: "#444444"}, 100)
+    @g.select("text").animate({fill: "#444444"}, 100)
+    for t in @g.selectAll("tspan")
+      t.animate({fill: "#444444"}, 100)
 
 class Route extends Link
   url: () ->
@@ -41,9 +53,11 @@ class Route extends Link
 
   onMouseover: =>
     @g.select("line").animate({stroke: "#2d9fee"}, 100)
+    @g.select("path").animate({fill: "#2d9fee"}, 100)
 
   onMouseout: =>
-    @g.select("line").animate({stroke: "#444444"}, 100)    
+    @g.select("line").animate({stroke: "#444444"}, 100)
+    @g.select("path").animate({fill: "#444444"}, 100)
 
   onClick: =>
     @g.select("line").animate({stroke: "#ff00ff"}, 100)
@@ -65,9 +79,7 @@ class App
       groups = f.selectAll("g")
       @snap.append f
 
-      console.log groups
       for g in groups
-        console.log g.node.id
         if @isRoute(g.node.id)
           new Route(g)
         else if @isPlace(g.node.id)

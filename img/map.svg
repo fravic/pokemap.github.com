@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1000px"
-	 height="656.25px" viewBox="0 0 1000 656.25" enable-background="new 0 0 1000 656.25" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 605" enable-background="new 0 0 1000 605" xml:space="preserve">
 <g id="MapBG">
-	<rect fill-rule="evenodd" clip-rule="evenodd" fill="#A1CAEA" width="1000" height="657"/>
+	<rect fill-rule="evenodd" clip-rule="evenodd" fill="#A1CAEA" width="1000" height="605"/>
 	<g>
 		<path fill-rule="evenodd" clip-rule="evenodd" fill="#A9D7B8" d="M1000-0.469c0,0-488.542,0.422-509.375,0.422
 			c-2.217,6-4.436,14.795-6.653,20.661c-0.51,1.344-1.021,2.741-1.524,4.086c-0.201,0.476-0.378,0.996-0.623,1.452
@@ -23,10 +22,7 @@
 			c13.181,10.041,14.648-5.336,21.666-8.386c7.712,0.768,12.985,3.401,15.71,12.063c2.133,6.78,5.846,13.326,14.987,15.981
 			c18.75,5.446,26.03,19.711,21.882,38.922c-0.879,4.065,1.79,6.575,2.958,9.84c5.157,14.423,10.673,29.068,8.711,44.757
 			c-2.71,21.658,11.482,35.889,33.554,33.655c10.312-1.044,19.426-4.224,27.026-11.701c5.112,8.637,1.703,16.538,2.522,24.087
-			c-2.031,11.713-7.375,22.533-13.446,32.08c-7.356,11.563-8.017,21.236-0.619,32.104c5.847,7.591,12.558,5.901,20.166,2.69
-			c9.835-4.15,19.055-12.961,31.099-5.885c-0.096,9.129,5.441,13.833,13.051,17.341c9.28,4.28,14.424,11.765,16.719,22.182
-			c-8.318,0.949-13.484-2.668-17.33-7.594c-4.864-6.233-11.594-8.536-18.529-10.678c-4.586-1.416-7.811-0.781-8.94,5.026
-			c-1.767,9.093-4.384,15.081-6.641,24.081c26.042,0,725,0.394,725,0.394V-0.469z M192.688,337.322
+			c-2.031,11.713-7.375,22.586-13.446,32.134C238.667,588.6,249,605,249,605h751V-0.469z M192.688,337.322
 			c4.298-0.221,6.475-3.322,8.091-9.322c0.003,0,0.007,0,0.011,0C199.167,334,196.987,337.101,192.688,337.322z M234.658,406.109
 			c-0.034-0.036-0.065-0.074-0.099-0.109c0.001,0,0.002,0,0.003,0c1.829-1.088,3.688-1.987,5.571-2.751
 			C238.283,404.037,236.457,404.978,234.658,406.109z M242.018,486.993c-0.147-0.158-0.297-0.306-0.444-0.47
@@ -40,18 +36,12 @@
 			c4.076-2.563,4.296-11.233,6.305-17.123C278.643,522.141,274.149,518.85,271.094,518.961z M279.557,574.091
 			c-1.588,0.784-2.897,1.113-3.943,1.096c1.022-0.005,2.293-0.337,3.83-1.096c4.059-2.004,9.564-2.268,11.568-7.44
 			C289.008,571.823,283.615,572.087,279.557,574.091z M303,549.811c0,0,0-0.001,0-0.001c2.297,0.032,4.041,0.064,6.173,0.096
-			C307.041,549.873,305.297,549.841,303,549.811z M358.935,584.987c-7.388,2.371-12.386,6.903-5.74,14.281
-			c10.2,11.324,1.806,15.406-6.194,19.967c0-0.002,0-0.004,0-0.006c-3.525,5.071-6.742,7.342-10.052,7.226
-			c3.227,0.018,6.326-2.261,9.593-7.228c8.498-4.555,16.707-8.636,6.505-19.961C346.4,591.89,351.546,587.357,358.935,584.987
-			c4.312-1.384,9.065-2.185,13.065-3.249C368,582.802,363.247,583.603,358.935,584.987z M380.515,584.371
-			c-0.041-0.04-0.081-0.08-0.122-0.12l0.124,0.12c0.106,2.096,0.581,3.835,1.321,5.317
-			C381.097,588.206,380.621,586.466,380.515,584.371z M390.839,443.583c-17.885,5.708-34.735,4.944-51.865-5.714
-			c-20.424-12.709-37.888-30.246-61.211-38.266c-4.631-0.002-9.29-0.195-13.92-0.195c4.63-0.042,9.29,0.108,13.92,0.11
-			c23.323,8.02,40.787,25.599,61.211,38.308c17.129,10.658,33.979,11.444,51.865,5.735c18.811-6.002,29.144-2.942,34.825,11.024
-			c0.902,2.218,1.29,4.113,1.283,5.757c0.005-1.641-0.383-3.532-1.283-5.746C419.983,440.631,409.649,437.581,390.839,443.583z
-			 M417.543,615.872c4.736-0.002,10.01-3.339,19.505-9.619c-12.05-7.538-9.99-17.627-5.798-28.552
-			c1.29-3.36,2.933-6.091,4.933-8.139c-2,2.048-3.643,4.778-4.932,8.139c-4.191,10.925-6.251,21.015,5.798,28.552
-			C427.553,612.534,422.279,615.87,417.543,615.872z M454.291,219.821c-17.472-4.593-35.135-8.438-52.662-12.822
+			C307.041,549.873,305.297,549.841,303,549.811z M380.515,584.371c-0.041-0.04-0.081-0.08-0.122-0.12l0.124,0.12
+			c0.106,2.096,0.581,3.835,1.321,5.317C381.097,588.206,380.621,586.466,380.515,584.371z M390.839,443.583
+			c-17.885,5.708-34.735,4.944-51.865-5.714c-20.424-12.709-37.888-30.246-61.211-38.266c-4.631-0.002-9.29-0.195-13.92-0.195
+			c4.63-0.042,9.29,0.108,13.92,0.11c23.323,8.02,40.787,25.599,61.211,38.308c17.129,10.658,33.979,11.444,51.865,5.735
+			c18.811-6.002,29.144-2.942,34.825,11.024c0.902,2.218,1.29,4.113,1.283,5.757c0.005-1.641-0.383-3.532-1.283-5.746
+			C419.983,440.631,409.649,437.581,390.839,443.583z M454.291,219.821c-17.472-4.593-35.135-8.438-52.662-12.822
 			c-15.604-3.903-11.444-18.848-15.835-29.013c-2.771-3.322-4.833-5.976-8.754-6.065c3.921,0.089,5.986,2.743,8.762,6.063
 			c4.385,10.167,0.226,25.112,15.83,29.015c17.527,4.384,35.192,8.229,52.664,12.822c1.747,0.459,3.298,0.674,4.677,0.637
 			C457.591,220.496,456.039,220.281,454.291,219.821z M471.258,100.296c4.487-1.274,5.741-5.04,3.954-9.291
@@ -96,22 +86,19 @@
 			c-0.001,0-0.002,0-0.004,0c-0.065-0.382-0.137-0.768-0.21-1.156C678.102,358.215,678.174,358.582,678.239,358.941z
 			 M676.806,349.74c-0.038-2.571,0.581-4.809,2.666-6.242C677.421,344.946,676.789,347.198,676.806,349.74z M663.08,422.47
 			c-0.984,0.155-2.003,0.385-2.512,1.038c0.51-0.655,1.533-0.889,2.526-1.055c3.027-0.185,5.195,0.937,4.982,4.23
-			C668.289,423.39,666.121,422.269,663.08,422.47z M696.7,594.37c-0.758,0.891-1.519,1.782-2.277,2.672
-			c-5.853,4.512-11.044,12.106-17.884,12.009c6.839,0.097,12.029-7.498,17.878-12.011c0.764-0.888,1.524-1.779,2.286-2.677
-			c4.078-3.273,6.8-6.814,8.564-10.544C703.502,587.551,700.779,591.094,696.7,594.37z M709,490.096c0-0.001,0-0.003,0-0.004
-			c3,3.715,4.918,8.267,6.015,13.329C713.918,498.359,712,493.809,709,490.096z M701.454,356.802
-			c-1.198,0.335-2.4,0.604-3.604,0.844c1.205-0.258,2.407-0.539,3.604-0.874c11.799-3.295,18.155-10.675,18.396-19.645
-			C719.612,346.11,713.256,353.505,701.454,356.802z M813,224.28c6.685,1.866,13.092,4.396,18.366,9.505
-			c0.95,0.273,1.899,0.549,2.85,0.827c-0.951-0.277-1.9-0.554-2.854-0.827C826.091,228.676,819.685,226.146,813,224.28z
-			 M843.526,429.671c-4.204,11.175-7.514,22.7-12.009,33.749c4.495-11.049,7.718-22.574,11.922-33.749
-			c0.653-1.737,1.391-3.447,1.969-5.139C844.875,426.225,844.179,427.935,843.526,429.671z M896.798,503.04
-			c-0.002-0.011-0.004-0.022-0.006-0.033C896.794,503.018,896.796,503.029,896.798,503.04L896.798,503.04z M988.466,265.616
-			c-5.194,11.368-19.212,12.438-33.255,13.673c14.098,12.468,12.491,26.065,6.914,39.969c-5.643,14.071-17.453,15.689-30.807,15.876
-			c-24.831,0.351-47.367,20.961-53.31,45.261c-3.908,15.975-19.545,17.83-32.414,22.368c-1.655,1.229-2.119,2.759-2.235,4.376
-			c0.092-1.618,0.493-3.147,2.148-4.376c12.869-4.538,28.549-6.393,32.457-22.368c5.943-24.3,28.501-44.91,53.332-45.261
-			c13.354-0.188,25.175-1.805,30.818-15.876c5.577-13.904,7.189-27.501-6.908-39.969c14.042-1.236,28.064-2.306,33.257-13.673
-			c5.309-11.618,5.299-25.886-5.525-36.354c-5.547-5.363-11.56-7.867-17.742-7.913c6.183,0.046,12.196,2.55,17.743,7.913
-			C993.764,239.729,993.774,253.998,988.466,265.616z"/>
+			C668.289,423.39,666.121,422.269,663.08,422.47z M709,490.096c0-0.001,0-0.003,0-0.004c3,3.715,4.918,8.267,6.015,13.329
+			C713.918,498.359,712,493.809,709,490.096z M701.454,356.802c-1.198,0.335-2.4,0.604-3.604,0.844
+			c1.205-0.258,2.407-0.539,3.604-0.874c11.799-3.295,18.155-10.675,18.396-19.645C719.612,346.11,713.256,353.505,701.454,356.802z
+			 M813,224.28c6.685,1.866,13.092,4.396,18.366,9.505c0.95,0.273,1.899,0.549,2.85,0.827c-0.951-0.277-1.9-0.554-2.854-0.827
+			C826.091,228.676,819.685,226.146,813,224.28z M843.526,429.671c-4.204,11.175-7.514,22.7-12.009,33.749
+			c4.495-11.049,7.718-22.574,11.922-33.749c0.653-1.737,1.391-3.447,1.969-5.139C844.875,426.225,844.179,427.935,843.526,429.671z
+			 M896.798,503.04c-0.002-0.011-0.004-0.022-0.006-0.033C896.794,503.018,896.796,503.029,896.798,503.04L896.798,503.04z
+			 M988.466,265.616c-5.194,11.368-19.212,12.438-33.255,13.673c14.098,12.468,12.491,26.065,6.914,39.969
+			c-5.643,14.071-17.453,15.689-30.807,15.876c-24.831,0.351-47.367,20.961-53.31,45.261c-3.908,15.975-19.545,17.83-32.414,22.368
+			c-1.655,1.229-2.119,2.759-2.235,4.376c0.092-1.618,0.493-3.147,2.148-4.376c12.869-4.538,28.549-6.393,32.457-22.368
+			c5.943-24.3,28.501-44.91,53.332-45.261c13.354-0.188,25.175-1.805,30.818-15.876c5.577-13.904,7.189-27.501-6.908-39.969
+			c14.042-1.236,28.064-2.306,33.257-13.673c5.309-11.618,5.299-25.886-5.525-36.354c-5.547-5.363-11.56-7.867-17.742-7.913
+			c6.183,0.046,12.196,2.55,17.743,7.913C993.764,239.729,993.774,253.998,988.466,265.616z"/>
 		<path fill-rule="evenodd" clip-rule="evenodd" fill="#65966D" d="M681,528.045c0,0.03,0.179,0.061,0.195,0.059
 			c0.004-0.031,0.042-0.06,0.072-0.087c-0.003-0.006-0.006-0.011-0.009-0.017C681.264,528,681,528.023,681,528.045z"/>
 		<path fill-rule="evenodd" clip-rule="evenodd" fill="#65966D" d="M90.515,228.186c0.062,0.018,0.128,0.029,0.191,0.046
@@ -285,9 +272,9 @@
 	
 		<line fill="none" stroke="#444444" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" x1="877.598" y1="249" x2="931.095" y2="300.113"/>
 	<g>
-		<path fill="#444444" fill-opacity="0.3" d="M903,295c0,1.104-0.896,2-2,2h-17c-1.104,0-2-0.896-2-2v-15c0-1.104,0.896-2,2-2h17
-			c1.104,0,2,0.896,2,2V295z"/>
-		<text transform="matrix(1 0 0 1 886.709 292.25)" fill="#FFFFFF" font-family="'HelveticaNeue-CondensedBold'" font-size="13">18</text>
+		<path fill="#444444" fill-opacity="0.3" d="M973,307c0,1.104-0.896,2-2,2h-17c-1.104,0-2-0.896-2-2v-15c0-1.104,0.896-2,2-2h17
+			c1.104,0,2,0.896,2,2V307z"/>
+		<text transform="matrix(1 0 0 1 956.709 304.25)" fill="#FFFFFF" font-family="'HelveticaNeue-CondensedBold'" font-size="13">18</text>
 	</g>
 </g>
 <g id="Route_19">
@@ -330,112 +317,179 @@
 	<g>
 		<g>
 			
-				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="734" y1="363" x2="734" y2="358"/>
+				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="734" y1="353" x2="734" y2="348"/>
 			
-				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="9,9" x1="734" y1="349" x2="734" y2="297"/>
+				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="8,8" x1="734" y1="340" x2="734" y2="312"/>
 			
-				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="734" y1="292" x2="734" y2="287"/>
+				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="734" y1="308" x2="734" y2="303"/>
 		</g>
 	</g>
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="733.75" cy="362.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 743.75 353)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Victory Road</text>
+	</g>
 </g>
 <g id="Place_Azure_Bay">
 	<g>
 		<g>
 			
-				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="345" y1="197.118" x2="341.155" y2="193.922"/>
+				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="333.61" y1="185.728" x2="329.721" y2="182.586"/>
 			
-				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="10.2021,10.2021" x1="333.309" y1="187.402" x2="258.769" y2="125.456"/>
+				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="9.6164,9.6164" x1="322.24" y1="176.543" x2="266.134" y2="131.224"/>
 			
-				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="254.846" y1="122.196" x2="251" y2="119"/>
+				<line fill="none" stroke="#444444" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="262.394" y1="128.202" x2="258.504" y2="125.061"/>
 		</g>
+	</g>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 258.75 171)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Azure Bay</text>
 	</g>
 </g>
 <g id="Town_Vaniville">
-	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="660.75" cy="562.75" r="15.75"/>
+	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="661.75" cy="562.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 683 567.3335)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Vaniville Town</text>
 </g>
 <g id="Town_Aquacorde">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="660.75" cy="486.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 681.75 490.1362)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Aquacorde Town</text>
 </g>
 <g id="City_Santalune">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="615.75" cy="370.75" r="15.75"/>
+	<g>
+		<text transform="matrix(1 0 0 1 542.2856 368.25)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Santalune</tspan><tspan x="28.769" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">City</tspan></text>
+	</g>
 </g>
 <g id="Town_Camphrier">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="410.75" cy="377.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 373.3623 408.5)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Camphrier Town</text>
 </g>
 <g id="City_Cyllage">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="173.75" cy="376.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 172 355)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Cyllage City</text>
 </g>
 <g id="Town_Ambrette">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="224.75" cy="496.75" r="15.75"/>
+	<g>
+		<text transform="matrix(1 0 0 1 156.6553 495.1367)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Ambrette</tspan><tspan x="16.913" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Town</tspan></text>
+	</g>
 </g>
 <g id="Town_Geosenge">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="90.75" cy="311.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 20.2534 309.6367)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Geosenge</tspan><tspan x="19.565" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Town</tspan></text>
 </g>
 <g id="City_Shalour">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="149.75" cy="236.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 169.5 251.5)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Shalour</tspan><tspan x="0" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">City</tspan></text>
 </g>
 <g id="City_Coumarine">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="344.75" cy="196.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 319.4521 227.2319)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Coumarine</tspan><tspan x="16.413" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">City</tspan></text>
 </g>
 <g id="City_Anistar">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="877.75" cy="248.75" r="15.75"/>
+	<g>
+		<text transform="matrix(1 0 0 1 888.0972 230.5)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Anistar City</text>
+	</g>
 </g>
 <g id="City_Snowbelle">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="846.75" cy="365.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 866 381.25)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Snowbelle City</text>
 </g>
 <g id="City_Lumiose">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="514.75" cy="245.75" r="32.5"/>
+	<text transform="matrix(1 0 0 1 552.5 257.2319)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Lumiose</tspan><tspan x="0" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">City</tspan></text>
 </g>
 <g id="Place_Pokemon_League">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="734.75" cy="286.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 756.7124 285.25)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Pokemon</tspan><tspan x="0" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">League</tspan></text>
 </g>
 <g id="Place_Santalune_Forest">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="660.75" cy="422.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 675.0557 426)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Santalune Forest</text>
+	</g>
 </g>
 <g id="Place_Chamber_of_Emptiness">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="682.75" cy="380.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 695 392.8047)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Chamber of</tspan><tspan x="0" y="9" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Emptiness</tspan></text>
+	</g>
 </g>
 <g id="Place_Pokemon_Village">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="818.75" cy="484.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 792.3804 505.6665)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Pokemon VIllage</text>
+	</g>
 </g>
 <g id="Place_Terminus_Cave">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="920.75" cy="273.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 930.3335 264.6665)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Terminus Cave</text>
+	</g>
 </g>
 <g id="Place_Frost_Cavern">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="694.75" cy="169.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 674.9595 155.5)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Frost Cavern</text>
+	</g>
 </g>
 <g id="Place_Lost_Hotel">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="595.75" cy="159.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 579.1895 182)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Lost Hotel</text>
+	</g>
 </g>
 <g id="Place_Poke_Ball_Factory">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="515.75" cy="43.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 486.4346 29)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Pokeball Factory</text>
+	</g>
 </g>
 <g id="Place_Sea_Spirit_x27_s_Den">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="250.75" cy="118.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 265.667 119)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Sea Spirit&apos;s Den</text>
+	</g>
 </g>
-<g id="Place_Kalos_Power_Plant">
+<g id="Place_Kalos_Power_Plantt">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="420.75" cy="232.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 396.4526 254.2319)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Kalos Power</tspan><tspan x="14.217" y="9" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Plant</tspan></text>
+	</g>
 </g>
 <g id="Place_Parfum_Palace">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="294.75" cy="292.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 246.7437 290.5)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Parfum</tspan><tspan x="2.64" y="9" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Palace</tspan></text>
+	</g>
 </g>
 <g id="Place_Glittering_Cave">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="361.75" cy="496.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 376.75 496.5)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Glittering</tspan><tspan x="0" y="9" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Cave</tspan></text>
+	</g>
 </g>
 <g id="Place_Connecting_Cave">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="203.75" cy="376.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 198.75 399)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Connecting</tspan><tspan x="0" y="9" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Cave</tspan></text>
+	</g>
 </g>
 <g id="Place_Reflection_Cave">
 	<circle fill="#F29E53" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="127.75" cy="257.75" r="10"/>
+	<g opacity="0.5">
+		<text transform="matrix(1 0 0 1 123.7183 280.25)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Reflection</tspan><tspan x="0" y="9" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="11">Cave</tspan></text>
+	</g>
 </g>
 <g id="Town_Couriway">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="930.75" cy="299.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 861.5503 295.5)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Couriway</tspan><tspan x="26.025" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">City</tspan></text>
 </g>
 <g id="City_Laverre">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="515.75" cy="72.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 537 64.2319)"><tspan x="0" y="0" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Laverre</tspan><tspan x="0" y="13" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">City</tspan></text>
 </g>
 <g id="Town_Dendemille">
 	<circle fill="#FFFFFF" stroke="#444444" stroke-width="5" stroke-miterlimit="10" cx="684.75" cy="196.75" r="15.75"/>
+	<text transform="matrix(1 0 0 1 649.0459 227.5)" fill="#444444" font-family="'HelveticaNeue-CondensedBold'" font-size="13">Dendemille City</text>
 </g>
 </svg>
