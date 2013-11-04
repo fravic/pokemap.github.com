@@ -34,7 +34,8 @@ class Place extends Link
       line.animate({stroke: "#2d9fee"}, 100)
     if circle = @g.select("circle")
       circle.animate({stroke: "#2d9fee"}, 100)
-    @g.select("text").animate({fill: "#2d9fee"}, 100)
+    for p in @g.selectAll("path")
+      p.animate({fill: "#2d9fee"}, 100)
     for t in @g.selectAll("tspan")
       t.animate({fill: "#2d9fee"}, 100)
 
@@ -43,7 +44,8 @@ class Place extends Link
       line.animate({stroke: "#444444"}, 100)
     if circle = @g.select("circle")
       circle.animate({stroke: "#444444"}, 100)
-    @g.select("text").animate({fill: "#444444"}, 100)
+    for p in @g.selectAll("path")
+      p.animate({fill: "#444444"}, 100)
     for t in @g.selectAll("tspan")
       t.animate({fill: "#444444"}, 100)
 

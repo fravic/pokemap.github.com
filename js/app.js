@@ -72,7 +72,7 @@
     };
 
     Place.prototype.onMouseover = function() {
-      var circle, line, t, _i, _j, _len, _len1, _ref1, _ref2, _results;
+      var circle, line, p, t, _i, _j, _k, _len, _len1, _len2, _ref1, _ref2, _ref3, _results;
 
       _ref1 = this.g.selectAll("line");
       for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
@@ -86,13 +86,17 @@
           stroke: "#2d9fee"
         }, 100);
       }
-      this.g.select("text").animate({
-        fill: "#2d9fee"
-      }, 100);
-      _ref2 = this.g.selectAll("tspan");
-      _results = [];
+      _ref2 = this.g.selectAll("path");
       for (_j = 0, _len1 = _ref2.length; _j < _len1; _j++) {
-        t = _ref2[_j];
+        p = _ref2[_j];
+        p.animate({
+          fill: "#2d9fee"
+        }, 100);
+      }
+      _ref3 = this.g.selectAll("tspan");
+      _results = [];
+      for (_k = 0, _len2 = _ref3.length; _k < _len2; _k++) {
+        t = _ref3[_k];
         _results.push(t.animate({
           fill: "#2d9fee"
         }, 100));
@@ -101,7 +105,7 @@
     };
 
     Place.prototype.onMouseout = function() {
-      var circle, line, t, _i, _j, _len, _len1, _ref1, _ref2, _results;
+      var circle, line, p, t, _i, _j, _k, _len, _len1, _len2, _ref1, _ref2, _ref3, _results;
 
       _ref1 = this.g.selectAll("line");
       for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
@@ -115,13 +119,17 @@
           stroke: "#444444"
         }, 100);
       }
-      this.g.select("text").animate({
-        fill: "#444444"
-      }, 100);
-      _ref2 = this.g.selectAll("tspan");
-      _results = [];
+      _ref2 = this.g.selectAll("path");
       for (_j = 0, _len1 = _ref2.length; _j < _len1; _j++) {
-        t = _ref2[_j];
+        p = _ref2[_j];
+        p.animate({
+          fill: "#444444"
+        }, 100);
+      }
+      _ref3 = this.g.selectAll("tspan");
+      _results = [];
+      for (_k = 0, _len2 = _ref3.length; _k < _len2; _k++) {
+        t = _ref3[_k];
         _results.push(t.animate({
           fill: "#444444"
         }, 100));
