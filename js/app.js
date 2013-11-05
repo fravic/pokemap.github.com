@@ -232,8 +232,12 @@
       var RATIO, h, w;
 
       RATIO = 625 / 1000;
-      w = Math.max($("BODY").width(), 1000);
+      w = Math.max($(window).width(), 1000);
       h = w * RATIO;
+      if (h < $(window).height()) {
+        h = $(window).height();
+        w = h / RATIO;
+      }
       $("#map").width(w);
       $("#map").height(w * RATIO);
       return $("#title").css({
