@@ -5,12 +5,18 @@ BODY {
   height: 100%;
 
   background-color: #a1caea;
-  font-family: Helvetica Nueue, Helvetica, sans-serif;
+  font-family: "proxima-nova-condensed", Helvetica Nueue Condensed, Helvetica, sans-serif;
 }
 
 #map {
   width: 100%;
   min-width: 900px;
+
+  font-family: "proxima-nova-condensed";
+
+  .city {
+    font-weight: bold;
+  }
 }
 
 #title {
@@ -31,6 +37,6 @@ BODY {
   }
 
   .footer {
-    font-size: 9px;
+    font-size: 10px;
   }
 }

@@ -20,6 +20,15 @@ class Link
     window.open(BULBAPEDIA_BASE + @url(), '_blank')
 
 class Place extends Link
+  constructor: (@g) ->
+    super @g
+
+    name = @g.node.id
+    if name.indexOf("City") is 0 or\
+       name.indexOf("Town") is 0 or\
+       name.indexOf("Place_Pokémon_League") is 0
+      @g.attr {class: "city"}
+
   url: () ->
     name = @g.node.id
     if name.indexOf("City") is 0
@@ -34,7 +43,7 @@ class Place extends Link
       line.animate({stroke: "#2d9fee"}, 100)
     if circle = @g.select("circle")
       circle.animate({stroke: "#2d9fee"}, 100)
-    for p in @g.selectAll("path")
+    for p in @g.selectAll("text")
       p.animate({fill: "#2d9fee"}, 100)
     for t in @g.selectAll("tspan")
       t.animate({fill: "#2d9fee"}, 100)
@@ -44,7 +53,7 @@ class Place extends Link
       line.animate({stroke: "#444444"}, 100)
     if circle = @g.select("circle")
       circle.animate({stroke: "#444444"}, 100)
-    for p in @g.selectAll("path")
+    for p in @g.selectAll("text")
       p.animate({fill: "#444444"}, 100)
     for t in @g.selectAll("tspan")
       t.animate({fill: "#444444"}, 100)
