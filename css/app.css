@@ -49,8 +49,7 @@ BODY {
     font-weight: bold; }
 
 #title {
-  position: relative;
-  top: -50px;
+  position: absolute;
   left: 8px;
   height: 0;
   float: left;

@@ -229,12 +229,16 @@
     };
 
     App.prototype.resizeMap = function() {
-      var RATIO, w;
+      var RATIO, h, w;
 
       RATIO = 625 / 1000;
       w = Math.max($("BODY").width(), 1000);
+      h = w * RATIO;
       $("#map").width(w);
-      return $("#map").height(w * RATIO);
+      $("#map").height(w * RATIO);
+      return $("#title").css({
+        top: h - 50
+      });
     };
 
     return App;

@@ -100,8 +100,10 @@ class App
   resizeMap: =>
     RATIO = 625/1000
     w = Math.max $("BODY").width(), 1000
+    h = w * RATIO
     $("#map").width(w)
     $("#map").height(w * RATIO)
+    $("#title").css {top: (h - 50)}
 
 app = new App()
 $ app.render
